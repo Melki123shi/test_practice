@@ -16,4 +16,4 @@ jobs:
                 pythonversion: '3.x'
           - run: python --version
 
-# "github"
+# "github.com"
